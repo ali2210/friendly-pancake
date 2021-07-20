@@ -1,2 +1,2 @@
 # friendly-pancake
-Grpc &amp; envoy smart connection
+Micro-services Grpc-web & grpc
